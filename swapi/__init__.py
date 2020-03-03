@@ -1,3 +1,3 @@
-from swapi import *
+from swapi.swapi import *
 
 

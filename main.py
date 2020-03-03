@@ -7,7 +7,7 @@ import toolz
 from toolz import curried, pipe
 from toolz.curried import groupby
 
-from swapi.swapi import ClientBuilder
+from swapi import ClientBuilder
 
 
 class CounterIterator(typing.Iterator):
