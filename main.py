@@ -1,11 +1,6 @@
-import csv
-import json
 import typing
-from sys import stdout
 
-import toolz
 from toolz import curried, pipe
-from toolz.curried import groupby
 
 from swapi import ClientBuilder
 
